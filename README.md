@@ -70,3 +70,24 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 
 - 做好事前的研究，問出來的問題才可以讓客戶知道我們熟悉他們（如果問出隨便一查就知道的問題，他們會覺得你在浪費他們時間）
 - 事前的研究與知識，能幫助我們建立信任
+
+# 📍 Achieving Results through Empathetic Listening
+
+## 🔷 Empathetic Listening
+
+### 🔶 為什麼需要？
+
+- SDR 不只要約到會議，還要確定產品是真的適合 prospect，而且我們有可能賣給他們。要做到這個，需要好的聆聽
+- 了解什麼時候、如何提出對的問題
+- 建立連結，有深度的對話
+- 能了解客戶需求、客戶有多想買、決策者、timeline、預算
+
+### 🔶 內容
+
+- 重複使雙方一致（Repeating for clarity）
+- 同理對方的狀況（Empathizing with their situation）
+- 連結客戶所說與接下來我要說的（Making connections between what the prospect says and what you say next）
+- 讓對方說話，我們聽
+- 開放式問題（Open-ended question）讓對方說出更多內容和細節
+- 記住客戶說的話（忙什麼、每天工作內容、有什麼限制、有什麼困難、KPI、是不是想做點什麼來升官...等等）
+- 透過客戶透露的內容，將自己的能提供的價值告訴他們
