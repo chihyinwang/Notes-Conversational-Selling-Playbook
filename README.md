@@ -194,3 +194,20 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
     - 「你怎麼想？」
     - 「這聽起來怎麼樣？」
     - 「這有解決你的困難嗎？（Does this address your concern?）」
+
+### 🔶 Empathize and Challenge
+
+- 在同理對方的同時，給予適當的挑戰，是一個應對 objection 很好的方式
+
+✳️  Challenger Methodology
+
+- 教育你的客戶：有些他們忽略的問題正在傷害他們
+- 將 Objection 轉化為教育的機會，告訴他們有哪些盲區
+- 在教育的同時務必要發揮同理心
+
+    *"Well, I understand. Let me make sure I understand your objection or what you're posing here. You're saying that A, B, and C are true, and therefore, this is an issue. Is that on the right track?"*
+
+    *"I think I understand what you're getting at, let me bring up another point here. I think you're thinking of these three things as the same thing. The reality is the customers that buy your product realized that, in order to handle A and B, well, C needs to be treated separately because of these reasons, and they end up improving A, B, and C by utilizing our product. Could you see that being the case for you?"*
+
+- 讓對方解除武裝，不要讓自尊主導這段對話
+- 向對方表示你聽到了，了解他們的立場。再增加一些資訊讓你們的立場相同，並且給他們機會挑戰
