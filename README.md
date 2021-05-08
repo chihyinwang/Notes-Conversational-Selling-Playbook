@@ -211,3 +211,62 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 
 - 讓對方解除武裝，不要讓自尊主導這段對話
 - 向對方表示你聽到了，了解他們的立場。再增加一些資訊讓你們的立場相同，並且給他們機會挑戰
+
+## 🔷 Closing through the Conversation
+
+- Closing 不只是要預約到會議，同時也要尋求反饋及共識（對話式的）
+
+    *"What do you think? Do you think it would work or how do you think you'll use it?"*
+
+- 去尋求反饋，你可能會得到更多機會去解決 Objection
+- 這個階段就是一直 handle objections，直到雙方對下一步有共識
+- 一個好的徵兆：雙方結束對話時沒有任何未被解答的問題
+    - 這也意味著，我一定要去詢問最後的 qualification questions
+- Closing 讓我們、產品與客戶有連結，他是這段對話的輸出
+- Closing 讓一段對話，變成好幾段對話
+
+### 🔶 Closing through Feedbacks and Next Steps
+
+✳️ Closing Qualification Questions
+
+- 讓我們確定對方適合進入下個階段
+
+    *"What's the decision process like for you?"*
+
+    *"Who else is involved?"*
+
+- 如果對方不讓我們進行下一步（會議）
+    - 向對方說明這個會議對決策者的價值在哪裡
+- 確定時間
+
+    *"Well then, let me talk about timeline."*
+
+    *"When would you anticipate implementing this?"*
+
+- 確定預算
+    - 幫我們對價錢有一定的共識，下一步會比較順利
+
+    *"Here's the pricing. How does this work in terms of budget for you?"*
+
+- 總結
+    - 幫雙方確認共識，尋求回饋，口頭同意，並再次強調產品的價值
+
+    *"To make sure we're on the same page here, you said that you're aiming to boost efficiency. And I mentioned that we might be able to help you hit those efficiency targets with our technology, does that sound right?"*
+
+- 下一步
+    - 務必要有確切的時間日期
+    - 好的 SDR 甚至能在通話中，就讓對方收到會議邀請，並且確認
+
+    *"Based on that, we should bring you your VP, and your CEO, in order call where we can walk you through exactly how we might help solve these problems. Would Wednesday work?"*
+
+    *"Hey, I just send you that email, did you get it? You got the calendar invite?"*
+
+✳️ Handle Objections
+
+- 「我不確定欸」「你能再寄更多資訊給我嗎？」
+    - 這是陷阱，雙方並沒有達到任何共識！
+    - 自己去製造下一步（和自己通話）
+
+    *"What would you looking for in the information I'll be sending?"*
+
+    *"Great! I'll send you the information to follow up on you, and I'll send you this afternoon. Also, if it's okay, can I call you next week on Tuesday to check-in? Are you free on Tuesday or Wednesday?"*
