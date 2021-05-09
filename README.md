@@ -270,3 +270,26 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
     *"What would you looking for in the information I'll be sending?"*
 
     *"Great! I'll send you the information to follow up on you, and I'll send you this afternoon. Also, if it's okay, can I call you next week on Tuesday to check-in? Are you free on Tuesday or Wednesday?"*
+
+# 📍 Generate Leads and Narrow Your Prospect List
+
+## 🔷 Empathizing with the Ideal Customer
+
+### 🔶 Ideal Customer Profile (ICP)
+
+- 我們是客戶最完美的選擇
+
+✳️  指標
+
+1. 產業
+2. 公司大小
+3. 年營收
+4. 員工人數
+5. 專注領域
+6. 總部地區
+7. 收入源於哪個地區
+8. 該領域的特殊指標
+
+✳️  範例
+
+- 北美零售業、500+員工、營收一億美元、有實體跟線上商店、有花錢在至少兩個數位平台上
