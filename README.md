@@ -330,3 +330,21 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
     - 手機廣告、數位廣告、App、社群廣告、Google廣告、行銷、...
 - 守則
     - 保持一個 360 度的視角來觀察這些宣傳、把付出與轉換率連結
+
+### 🔶 Working with ICPs and Personas
+
+- ICP & Persona 的價值：當我們理解誰會喜歡我們的產品時，才能提升真正簽下合約的機率，才能真正幫助公司增加收入
+
+✳️  Prospecting（找公司）
+
+- 讓 ICP 來引導，去尋找能在我們產品中獲得極大利益的潛在客戶
+- 如果我們知道這個客戶符合 ICP，讓對話進入下個階段（產品給他們的價值）就會非常自然
+- 很多時候我們能從 Marketing 看出 ICP 是什麼
+    1. 去看我們最棒的客戶有哪些特質（ICP 指標）
+    2. 去問現有客戶在購買我們產品前最大的困難是什麼
+
+✳️  Personas（找人）
+
+- 透過 Personas，定位出要找的職稱、工作內容（務必找到最適合的人）
+- 我們做好的這些功課，會在 Value Proposition 時透露出專業性
+- Persona 裡面甚至會包含一些與不同職位分享的內容，或是針對某人設計的內容
