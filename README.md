@@ -321,7 +321,9 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 職稱
     - Director of Marketing, Digital Marketing Manager, ...
 - 職位內容
-    - 每天管理廣告效益、行銷內容發想、活動設計
+    - 每日工作內容、每天管理廣告效益、行銷內容發想、活動設計
+- 團隊結構
+    - 和別人的合作關係、如何合作
 - 困難
     - 廣告、宣傳收益
 - 產品帶來的好處
