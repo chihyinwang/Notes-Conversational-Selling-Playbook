@@ -369,3 +369,19 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 3. 每天堅持做下去
     - 每天空出一段時間做 List building, prospecting
     - 查詢時做筆記
+
+### 🔶 Above-the-Line Prospects
+
+✳️  ATL, OTL, BTL
+
+- ATL - 有決策者的權限 / 想現在就動工 / C-suite, high-level VP
+- OTL - 下一季動工 / director, MVP
+- BTL - 過 6-24 個月動工 / Manager
+
+✳️  行動
+
+- 我們把客戶分成這三種等級，並且有不同的客製化訊息
+- ATL 在意大局觀，營收、市場、未來成功
+- 我們可以透過與 BTL, OTL 的對話，來得知公司的困難點以及 ATL 的目標
+- 也能透過與現有 ATL 去了解我們的產品對他們的影響是什麼
+- 可讓現有 ATL 來介紹新的 ATL
