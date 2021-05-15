@@ -385,3 +385,11 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 我們可以透過與 BTL, OTL 的對話，來得知公司的困難點以及 ATL 的目標
 - 也能透過與現有 ATL 去了解我們的產品對他們的影響是什麼
 - 可讓現有 ATL 來介紹新的 ATL
+
+## 🔷 Qualifying Prospects
+
+### 🔶 Asking the Right Questions
+
+- 問的自然一點，不要好像在檢查清單
+- 永遠記得要回應對方的回應，再繼續問問題
+- Qualify 跟 Disqualify 一樣重要
