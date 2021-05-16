@@ -393,3 +393,26 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 問的自然一點，不要好像在檢查清單
 - 永遠記得要回應對方的回應，再繼續問問題
 - Qualify 跟 Disqualify 一樣重要
+
+### 🔶 Creating an Efficient Prospect Qualification System
+
+✳️  B.A.N.T
+
+- Budget
+- Authority
+- Need
+- Timeline
+
+✳️  使用要點
+
+- 不管選擇哪種 framework，遵循它來驗證客戶是否有可能購買
+- 去安排自己的問題，讓一切都很順暢和自然（別讓他人覺得被審問）
+- 先問最有可能 disqualify 的問題
+- 掌握這段對話
+
+✳️  如何設計一個驗證系統
+
+- 先了解使用自己的產品需要哪些基本條件（多少量的數據/...）
+- 了解 ICP，可以從現有客戶去分析，是否有共通點（大小/產品/產業/問題/...）
+- 了解最後是誰會決定下單（問 AE 誰在用我們的產品/誰決定購買/他們的職責跟目標是什麼/...）
+- 去詢問 AE 的反饋，有哪些客戶無法成交，他們有什麼共通點
