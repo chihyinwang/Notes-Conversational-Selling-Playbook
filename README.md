@@ -416,3 +416,13 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 了解 ICP，可以從現有客戶去分析，是否有共通點（大小/產品/產業/問題/...）
 - 了解最後是誰會決定下單（問 AE 誰在用我們的產品/誰決定購買/他們的職責跟目標是什麼/...）
 - 去詢問 AE 的反饋，有哪些客戶無法成交，他們有什麼共通點
+
+## 🔷 Leveraging Data to Drive Prospecting Activity
+
+### 🔶 Leveraging Data to Drive Activity
+
+✳️  Activity * Conversion Rate = Result
+
+- 通常我們打幾通電話（Activity）會是績效不好時要檢討的第一個指標
+- 可反過來推導需要打幾通電話（Activity）
+- 不斷看著公式，去想我要怎麼提高 Result
