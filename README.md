@@ -426,3 +426,31 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 通常我們打幾通電話（Activity）會是績效不好時要檢討的第一個指標
 - 可反過來推導需要打幾通電話（Activity）
 - 不斷看著公式，去想我要怎麼提高 Result
+
+### 🔶 Sales Economics
+
+✳️  Annual Recurring Revenue (ARR)
+
+- 一個很常用來預估營收的指標
+
+✳️  Funnel / Pipeline
+
+- 漏斗的上方是 Total Addressable Market (TAM)，這個世界上有可能購買產品的公司
+- 漏斗的中間，指的是有些客戶不會成交、不喜歡、不續約...等等
+- 漏斗的下方是 Recurring Revenue
+
+✳️  SDR 扮演的角色
+
+- 製造 Sales Opportunity，也就是漏斗的上方
+
+✳️  SDR 自己的 funnel
+
+- 漏斗的第一層是 Outreach（prospecting的數量、打電話的量、email的量）
+- 漏斗的第二層是 Engagement（任何客戶與我們訊息的互動，開信率、電話連接、發文按了喜歡...）
+- 漏斗的第三層是 Positive Reply（客戶的回應，包含問題、Objections...）
+- 漏斗的最後一層是 Meeting（與 AE，下一步）
+
+✳️  這是個 numbers game
+
+- 即使是最好的 sales，每階段希望有 20% - 30% 進入下一階段
+- 了解我們是要打很多電話的
