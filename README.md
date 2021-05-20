@@ -466,3 +466,13 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 聯繫之前，可以先看看他們在社群軟體上發了什麼文（喜歡社群溝通就用社群溝通），且也可以透過這個文來開啟話題，吸引眼球
 - 我們可以先使用 email、message 聯繫再通電話，這樣能讓我們在通話前能稍微熟悉彼此一點
 - 不要害怕去使用更直接的聯繫方式，像是寄實體信、見本人、或是拍影片，這種較少人使用的管道雜訊較少，反而能突出我們的訊息
+
+# 📍 Conducting Prospect Outreach
+
+## 🔷 Call
+
+### 🔶 好處
+
+- 獲得資訊快、反應快、驗證快
+- 大家不喜歡打電話，所以我們要多打
+- 能讓我們大量練習 pitching
