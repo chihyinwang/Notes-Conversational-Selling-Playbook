@@ -476,3 +476,25 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 獲得資訊快、反應快、驗證快
 - 大家不喜歡打電話，所以我們要多打
 - 能讓我們大量練習 pitching
+
+### 🔶 要點
+
+✳️  如何讓自己不要那麼害怕打電話
+
+- 做功課（Who, Why, What）（簡短的說出你對對方的了解）
+- 準備一套邏輯，想好會發生什麼事
+- 進入 zone
+- 多練習
+- 邊講邊紀錄（寫在白板、紙上）
+- 成功了就小小慶祝一下吧
+
+✳️  小技巧
+
+- 用 popcorn question 來顯示自己有做好一些功課，知道對方在做什麼的
+- 從小問題到深問題，自然一點，不要一下就從日常問題進入 business 問題
+- 透過深問題去了解對方的需求和處境，並慢慢進入 value proposition
+- 不要只聽好的（qualify），壞的也要聽（disqualify）
+- 依循 BANT 去做 qualifying
+- 在收集到完整的資料前（問足夠多的問題前），還不是時候做 value propsition。最好是找到痛點、context、需求，我們才有辦法告訴他產品能如何改善他的生活
+- objection 是好的象徵，代表對方正在思考你說的話
+- 在面對 objection 時，務必要小心不要進入“反駁對方” 的狀態。用 Triple-A Approach
