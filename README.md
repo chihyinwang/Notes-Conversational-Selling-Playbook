@@ -498,3 +498,9 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 在收集到完整的資料前（問足夠多的問題前），還不是時候做 value propsition。最好是找到痛點、context、需求，我們才有辦法告訴他產品能如何改善他的生活
 - objection 是好的象徵，代表對方正在思考你說的話
 - 在面對 objection 時，務必要小心不要進入“反駁對方” 的狀態。用 Triple-A Approach
+
+### 🔶 語音留言
+
+1. 可以第三通再留言
+2. 提到之前給過的資訊（通話的或曾經寄出的email內容）
+3. 告訴對方哪段時間可以回撥給我
