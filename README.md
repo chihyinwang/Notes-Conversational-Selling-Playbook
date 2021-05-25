@@ -558,3 +558,18 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
         （這邊問興趣而非問確切時間日期的好處是：時間是有限的，尤其是對 ATL 來說他們會很在意這個。而興趣是無限的，相比來說會更容易說好）
 
         （要注意的是，若是進入 deal 環節，這就會比較無效）
+
+## 🔷 Social and Video
+
+### 🔶 LinkedIn prospecting
+
+✳️  Social Selling
+
+- 在 social network 建立一個專業的形象讓客戶能找到自己
+- 透過專業的形象讓我們在 social network 中推廣有用的資訊
+
+✳️  要點
+
+- 追蹤客戶，可以知道他們的近況，回應貼文
+- 一個禮拜發一次與產業相關的文，幫自己塑照專家的形象（Buffer-管理社交軟體, Postify, Hootsuite, Loomly，排程貼文）
+- 好好觀察自己的 SSI（Social Selling Index）
