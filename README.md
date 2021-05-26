@@ -573,3 +573,17 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 追蹤客戶，可以知道他們的近況，回應貼文
 - 一個禮拜發一次與產業相關的文，幫自己塑照專家的形象（Buffer-管理社交軟體, Postify, Hootsuite, Loomly，排程貼文）
 - 好好觀察自己的 SSI（Social Selling Index）
+
+### 🔶 Video Outreach
+
+- P：有創意的點出適當且相關的研究，並添加一些對方個人相關的趣味
+- A：讓對方知道下一步要做什麼（通常在結尾）
+- C：減少冗言贅字，視覺上簡單，不讓對方分心
+- E：站在客戶的立場去想，如何抓住他的眼球
+
+✳️  要點
+
+- 簡短自我介紹
+- 把 video 放到標題上，提高開信率
+- 影片視角要清楚，與眼睛平行
+- 注意影片縮圖
