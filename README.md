@@ -587,3 +587,13 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 把 video 放到標題上，提高開信率
 - 影片視角要清楚，與眼睛平行
 - 注意影片縮圖
+
+# 📍 Self-awareness
+
+## 🔷 EQ
+
+✳️  知道你的目標在哪
+
+- 現在是為了什麼而努力
+- 我為什麼要做這件事情
+- 是什麼驅使我想要成功
