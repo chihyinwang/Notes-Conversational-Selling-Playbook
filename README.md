@@ -597,3 +597,17 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 現在是為了什麼而努力
 - 我為什麼要做這件事情
 - 是什麼驅使我想要成功
+
+## 🔷 Self-Confidence
+
+✳️  如何養成
+
+- 重複的做，做到熟悉（憑藉好奇心及目的性去做，在錯誤中反思和優化 ）
+- 把焦點放在自己能做的，如果只看糟糕的結果，容易陷入情緒的旋渦（inside/ourside sphere）
+    - Knowledge (Product, Customer, Industry, Ability to communicate...)
+    - Number of prospects that I outreach
+    - Quality of messages
+- 回想過去克服的困難，自己有信心來克服現在的困難
+- 發揮自己的長處
+- 運用身邊的資源
+- 寫出自己想達到什麼目標，為此能做的事情有哪些
