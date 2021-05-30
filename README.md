@@ -611,3 +611,7 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 發揮自己的長處
 - 運用身邊的資源
 - 寫出自己想達到什麼目標，為此能做的事情有哪些
+
+## 🔷 Motivation
+
+> "I'm gonna lay this brick as perfectly as a brick can be laid, and you do that every single day, and soon you have a wall." — Will Smith
