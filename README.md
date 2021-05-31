@@ -615,3 +615,22 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 ## 🔷 Motivation
 
 > "I'm gonna lay this brick as perfectly as a brick can be laid, and you do that every single day, and soon you have a wall." — Will Smith
+
+## 🔷 Self-Regulation & Mindfulness
+
+- Mindfulness → Self-Regulation
+
+✳️  Self-Regulation
+
+- 不讓自己太受到情緒影響
+
+✳️  Mindfulness
+
+- 把注意力放到現在
+
+✳️  好處
+
+- 對改變感到舒適
+- 體貼
+- 正直
+- 接受批評
