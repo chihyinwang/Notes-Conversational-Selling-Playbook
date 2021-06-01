@@ -634,3 +634,14 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 體貼
 - 正直
 - 接受批評
+
+## 🔷 Empathy
+
+1. Be fully present
+    - 當下要注意聽，不要晃神
+    - 注意他們怎麼說的，情緒是如何
+    - 有時候，在對方講話同時我會思考他在說什麼（提前思考），這會使我無法在當下專心聽。這代表我只是在等一個 cue，讓我找到機會說出我想說的話。所以要慢慢來，不要急。
+2. Focus on the other person's perspective
+    - 開放的心胸，去了解對方的觀點
+    - 一定要放下自己的觀點
+3. Take positive action
