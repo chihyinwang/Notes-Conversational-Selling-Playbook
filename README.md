@@ -645,3 +645,14 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
     - 開放的心胸，去了解對方的觀點
     - 一定要放下自己的觀點
 3. Take positive action
+
+# 📍 Multi-Channel Outreach Approach
+
+## 🔷 Design
+
+### 🔶 3-Hit High-Touch Approach
+
+- 第一天接觸客戶，就用三種管道聯繫他
+    - email → phone call → LinkedIn
+- 三天後（第四天）再聯繫他一次
+- 三天後（第八天）再聯繫他一次
