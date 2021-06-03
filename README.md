@@ -656,3 +656,14 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
     - email → phone call → LinkedIn
 - 三天後（第四天）再聯繫他一次
 - 三天後（第八天）再聯繫他一次
+
+### 🔶 Campaign
+
+- 將 prospect 轉成客戶的一系列的規劃
+- Tell them why, why now，在不同管道告訴他
+- 多數的業務在一個禮拜後就不再聯繫 ❌（別擔心打擾人家，如果人家不想跟你講話他會跟你說）
+- 在短時間內大量出現在他眼前，能提高機會（自己也更快得到 campaign 回饋）
+    - Day1：Email, call
+    - Day3：Voicemail
+    - Day4：LinkedIn connection request, leave a comment on a post
+    - Day6：Call, video message
