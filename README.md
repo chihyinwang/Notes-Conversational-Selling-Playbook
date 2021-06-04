@@ -31,8 +31,10 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 
     *❌  "Our product does X, Y, and Z to help people do this better."* 
 
-    *✅  "Our customers deal with this issue, how are you addressing it?"*
-    
+    *✅  "Our customers deal with this issue, how are you addressing it?"* 
+
+# 📍 Establish Trust in Moments
+
 ## 🔷 Build Trust and Credibility When Cold Calling
 
 ### 🔶 Popcorn Question
@@ -82,7 +84,7 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 建立連結，有深度的對話
 - 能了解客戶需求、客戶有多想買、決策者、timeline、預算
 
-### 🔶 內容
+### 🔶 要點
 
 - 重複使雙方一致（Repeating for clarity）
 - 同理對方的狀況（Empathizing with their situation）
@@ -173,6 +175,12 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 不要把功能一項一項列出來（對方覺得跟他無關）
 
 ### 🔶 Objections
+
+✳️  定義
+
+- 當你試著想幫忙解決客戶的問題，但客戶並不同意你所說的，就會給予拒絕
+
+✳️  心態
 
 - 拒絕也是一種參與
 - 這給我們機會去挖掘他們的痛點
@@ -277,6 +285,9 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 
 ### 🔶 Ideal Customer Profile (ICP)
 
+✳️  定義
+
+- 公司
 - 我們是客戶最完美的選擇
 
 ✳️  指標
@@ -350,6 +361,51 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 透過 Personas，定位出要找的職稱、工作內容（務必找到最適合的人）
 - 我們做好的這些功課，會在 Value Proposition 時透露出專業性
 - Persona 裡面甚至會包含一些與不同職位分享的內容，或是針對某人設計的內容
+
+✳️  訪問的問題
+
+**1. Role Questions**
+
+- What is your job role? Your title?
+- How is your job measured?
+- What does a typical day look like?
+- What skills are required to do your job?
+- What knowledge and tools do you use in your job?
+- Who do you report to? Who reports to you?
+
+**2. Company Questions**
+
+- In which industry or industries does your company work?
+- What is the size of your company (revenue, employees)?
+
+**3. Goal Questions**
+
+- What are you responsible for?
+- What does it mean to be successful in your role?
+
+**4. Challenge Question**
+
+- What are your biggest challenges?
+
+**5. Watering Hole Questions**
+
+- How do you learn about new information for your job?
+- What publications or blogs do you read?
+- What associations and social networks do you participate in?
+
+**6. Personal Background Questions**
+
+- Describe your personal demographics (if possible, ask their age, whether they're married, and if they have children).
+- Describe your educational background. What level of education did you complete, which schools did you attend, and what did you study?
+- Describe your career path. How did you end up where you are today?
+
+**7. Shopping Preference Questions**
+
+- How do you prefer to interact with vendors (e.g. email, phone, in person)?
+- Do you use the internet to research vendors or products? If yes, how do you search for information?
+- Describe a recent purchase. Why did you consider a purchase, what was the evaluation process, and how did you decide to purchase that product or service?
+
+**8. The "Why?" Question**
 
 ## 🔷 Targeting High-Quality Leads
 
@@ -587,13 +643,15 @@ The notes I took in class - Conversational Selling Playbook for SDRs (https://ww
 - 把 video 放到標題上，提高開信率
 - 影片視角要清楚，與眼睛平行
 - 注意影片縮圖
+- 40~60秒的長度是滿適合的長度
 
 # 📍 Self-awareness
 
 ## 🔷 EQ
 
-✳️  知道你的目標在哪
+✳️  如何養成
 
+- 知道自己的目標在哪裡
 - 現在是為了什麼而努力
 - 我為什麼要做這件事情
 - 是什麼驅使我想要成功
